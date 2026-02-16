@@ -5,12 +5,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm currently in my **3rd year of BCA (Bachelor of Computer Applications)** at **SWAMI VIVEKANANDA UNIVERSITY**.
-- 💻 I’m currently learning and sharpening my skills in ** Java, Full-Stack Web Development**.
-- 🚀 I’m actively looking to collaborate on ** Open Source projects, Web Applications**.
-- 💬 Ask me about ** C, Java, HTML/CSS, basic Data Structures**.
-- 📫 How to reach me: **sr1577304@gmail.com**
-- ⚡ Fun fact: **I write code faster when I have a cup of coffee next to me! ☕**
+- 🎓 I'm currently in my **3rd year of BCA (Bachelor of Computer Applications)** at SWAMI VIVEKANANDA UNIVERSITY.
+- 💻 I’m currently learning and sharpening my skills in Java, Full-Stack Web Development.
+- 🚀 I’m actively looking to collaborate on Open Source projects, Web Applications.
+- 💬 Ask me about C, Java, HTML/CSS, basic Data Structures.
+- 📫 How to reach me: sr1577304@gmail.com
+- ⚡ Fun fact: I write code faster when I have a cup of coffee next to me! ☕
 
 <br/>
 
